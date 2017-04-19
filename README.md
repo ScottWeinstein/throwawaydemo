@@ -6,5 +6,5 @@
 * Live web editor for trivial changes
 * Generated docs if needed https://facebook.github.io/react/
 
-* Ohh look, a splleing error
+* Ohh look, a spelling error
 
